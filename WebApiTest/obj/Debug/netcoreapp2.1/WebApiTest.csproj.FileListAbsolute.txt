@@ -1,0 +1,14 @@
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\bin\Debug\netcoreapp2.1\WebApiTest.deps.json
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\bin\Debug\netcoreapp2.1\WebApiTest.runtimeconfig.json
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\bin\Debug\netcoreapp2.1\WebApiTest.runtimeconfig.dev.json
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\bin\Debug\netcoreapp2.1\WebApiTest.dll
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\bin\Debug\netcoreapp2.1\WebApiTest.pdb
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.csprojAssemblyReference.cache
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.csproj.CoreCompileInputs.cache
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.RazorAssemblyInfo.cache
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.RazorAssemblyInfo.cs
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.AssemblyInfoInputs.cache
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.AssemblyInfo.cs
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.RazorTargetAssemblyInfo.cache
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.dll
+C:\Mansing\PipeLineTest\MyPipleLineTest\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.pdb
