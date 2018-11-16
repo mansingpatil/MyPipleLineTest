@@ -25,7 +25,15 @@ namespace WebApiTest.Controllers
             return "DevelopBranch1";
         }
 
-   
+
+
+        // GET: api/DevelopBranch/5
+        [HttpPost]
+        public string Post(int id)
+        {
+            return "DevelopBranch1";
+        }
+
     }
 }
 
