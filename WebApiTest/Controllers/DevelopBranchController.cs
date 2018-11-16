@@ -11,7 +11,7 @@ namespace WebApiTest.Controllers
     [ApiController]
     public class DevelopBranchController : ControllerBase
     {
-        // GET: api/DevelopBranch
+
         [HttpGet]
         public IEnumerable<string> Get()
         {
@@ -28,3 +28,4 @@ namespace WebApiTest.Controllers
    
     }
 }
+
